@@ -22,15 +22,15 @@ see [http://www.apnic.net/db/rir-stats-format.html](http://www.apnic.net/db/rir-
 or [http://ftp.apnic.net/apnic/stats/apnic/README-EXTENDED.TXT](http://ftp.apnic.net/apnic/stats/apnic/README-EXTENDED.TXT)
 for details.
 
-#### Comments:
+### Comments:
 Line starting with `#`
 
-#### File header:
+### File header:
 **version|registry|serial|records|startdate|enddate|UTCoffset**
 
 *Example:* `2.3|apnic|20171018|100050||20171017|+1000`
 
-#### Summary line:
+### Summary line:
 **registry|*|type|*|count|summary**
 
 *Example:* `apnic|*|asn|*|8487|summary`
@@ -39,7 +39,7 @@ Line starting with `#`
 
 *Example:* `apnic|*|ipv6|*|52249|summary`
 
-#### Record format:
+### Record format:
 
 **registry|cc|type|start|value|date|status|opaque-id\[|extensions...]**
 
