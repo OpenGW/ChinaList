@@ -2,3 +2,19 @@
 # Use JetBrains IDE as the editor
 /.idea
 
+# Temporary files by sources
+17mon.china_ip_list@github/@china_ipv4.txt
+@china_ipv4.txt
+@china_ipv6.txt
+
+@china_domain.txt
+
+@block_ip.txt
+@block_ipv4.txt
+@block_ipv6.txt
+
+@block_domain.txt
+
+@pollution_ip.txt
+@pollution_ipv4.txt
+@pollution_ipv6.txt
