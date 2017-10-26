@@ -20,7 +20,7 @@ See [https://github.com/ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR)
 
 ### www.ipdeny.com
 
-[www.ipdeny.com](www.ipdeny.com) provides denied IPs by CN, HK, TW, etc.
+[www.ipdeny.com](www.ipdeny.com) provides IPs zones of CN, HK, TW, etc.
 
 ## Unused Sources:
 
@@ -28,10 +28,10 @@ Generally, these sources are too old, or have been obsolete.
 
 ### Nirsoft
 
-[http://www.nirsoft.net/countryip/hk.html](http://www.nirsoft.net/countryip/cn.html)
+[http://www.nirsoft.net/countryip/cn.html](http://www.nirsoft.net/countryip/cn.html)
 
 [http://www.nirsoft.net/countryip/hk.html](http://www.nirsoft.net/countryip/hk.html)
 
-[http://www.nirsoft.net/countryip/hk.html](http://www.nirsoft.net/countryip/tw.html)
+[http://www.nirsoft.net/countryip/tw.html](http://www.nirsoft.net/countryip/tw.html)
 
 
