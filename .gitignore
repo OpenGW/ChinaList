@@ -1,4 +1,27 @@
 
-# Use JetBrains IDE as the editor
-/.idea
+# Ignore all files by default
+*
+
+# Include README and LICENSE
+!/.gitignore
+!/README.md
+!/LICENSE.md
+
+# Include the results
+
+!/china_ip.txt
+!/china_ipv4.txt
+!/china_ipv6.txt
+
+!/china_domain.txt
+
+!/block_ip.txt
+!/block_ipv4.txt
+!/block_ipv6.txt
+
+!/block_domain.txt
+
+!/poison_ip.txt
+!/poison_ipv4.txt
+!/poison_ipv6.txt
 
