@@ -15,6 +15,6 @@
 
 @block_domain.txt
 
-@pollution_ip.txt
-@pollution_ipv4.txt
-@pollution_ipv6.txt
+@poison_ip.txt
+@poison_ipv4.txt
+@poison_ipv6.txt
